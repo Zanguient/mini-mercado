@@ -1,0 +1,1 @@
+Sistema para gestão mini mercado
